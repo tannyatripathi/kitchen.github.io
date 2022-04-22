@@ -11,7 +11,7 @@ body {
 }
 
 /* Navigation Bar:LOGO */
-.navi::before {
+/* .navi::before {
     content: "";
     background-color: black;
     position: absolute;
@@ -19,9 +19,10 @@ body {
     width: 100%;
     z-index: -1;
     opacity: 0.3;
-}
+} */
 
 .navi {
+    background-color: #0000001a;
     width: 100%;
     position: absolute;
     display: flex;
