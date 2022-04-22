@@ -28,11 +28,11 @@ body {
     align-items: center;
 }
 
-.logo {
-    padding: 0px 25px;
-}
+/* .logo {
+} */
 
 .navi .logo img {
+    margin: 10px 25px;
     height: 90px;
 }
 
